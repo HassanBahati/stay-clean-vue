@@ -113,6 +113,19 @@
               <h5 class="card-title">Section 1</h5>
               <h6 class="card-subtitle mb-2 text-muted">Subtitle</h6>
 
+.content{
+    width: 70%;
+}
+
+td{
+    text-align: center;
+    padding: 5px;
+}
+
+form{
+    margin-top: 20px;
+}
+
               <a href="#" class="card-link">link</a>
               <a href="#" class="card-link">Another link</a>
             </div>
