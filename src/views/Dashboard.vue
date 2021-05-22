@@ -41,7 +41,7 @@
         <div class="row px-4">
           <!--Grid column with card 1-->
           <div class="col">
-            <div class="card-body bg-warning rounded">
+            <div class="card-body shadow rounded">
               <h5 class="card-title">Section 1</h5>
               <h6 class="card-subtitle mb-2 text-muted">Subtitle</h6>
 
@@ -51,7 +51,7 @@
           </div>
           <!--Grid column with card 2-->
           <div class="col">
-            <div class="card-body bg-danger rounded">
+            <div class="card-body shadow rounded">
               <h5 class="card-title">Section 2</h5>
               <h6 class="card-subtitle mb-2 text-muted">Subtitle</h6>
 
@@ -61,7 +61,7 @@
           </div>
           <!--Grid column with card 3-->
           <div class="col">
-            <div class="card-body bg-info rounded">
+            <div class="card-body shadow rounded">
               <h5 class="card-title">Section 3</h5>
               <h6 class="card-subtitle mb-2 text-muted">Subtitle</h6>
 
@@ -75,7 +75,7 @@
         <div class="row px-4 pt-4">
           <!--Grid column with card 1-->
           <div class="col">
-            <div class="card-body bg-warning rounded">
+            <div class="card-body shadow rounded">
               <h5 class="card-title">Section 1</h5>
               <h6 class="card-subtitle mb-2 text-muted">Subtitle</h6>
 
@@ -85,7 +85,7 @@
           </div>
           <!--Grid column with card 2-->
           <div class="col">
-            <div class="card-body bg-danger rounded">
+            <div class="card-body shadow rounded">
               <h5 class="card-title">Section 2</h5>
               <h6 class="card-subtitle mb-2 text-muted">Subtitle</h6>
 
@@ -95,7 +95,7 @@
           </div>
           <!--Grid column with card 3-->
           <div class="col">
-            <div class="card-body bg-info rounded">
+            <div class="card-body shadow rounded">
               <h5 class="card-title">Section 3</h5>
               <h6 class="card-subtitle mb-2 text-muted">Subtitle</h6>
 
@@ -109,30 +109,16 @@
         <div class="row px-4 pt-4">
           <!--Grid column with card 1-->
           <div class="col">
-            <div class="card-body bg-warning rounded">
-              <h5 class="card-title">Section 1</h5>
+            <div class="card-body shadow rounded">
+              <h5 class="card-title">Section 100</h5>
               <h6 class="card-subtitle mb-2 text-muted">Subtitle</h6>
-
-.content{
-    width: 70%;
-}
-
-td{
-    text-align: center;
-    padding: 5px;
-}
-
-form{
-    margin-top: 20px;
-}
-
               <a href="#" class="card-link">link</a>
               <a href="#" class="card-link">Another link</a>
             </div>
           </div>
           <!--Grid column with card 2-->
           <div class="col">
-            <div class="card-body bg-danger rounded">
+            <div class="card-body shadow rounded">
               <h5 class="card-title">Section 2</h5>
               <h6 class="card-subtitle mb-2 text-muted">Subtitle</h6>
 
@@ -142,7 +128,7 @@ form{
           </div>
           <!--Grid column with card 3-->
           <div class="col">
-            <div class="card-body bg-info rounded">
+            <div class="card-body shadow rounded">
               <h5 class="card-title">Section 3</h5>
               <h6 class="card-subtitle mb-2 text-muted">Subtitle</h6>
 
