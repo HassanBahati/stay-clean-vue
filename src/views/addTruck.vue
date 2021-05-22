@@ -15,7 +15,7 @@
       >
         Add Employee
       </div>
-      <div class="view-list"><a class="list-link" href="/humanResource">View Trucks List</a></div>
+      <div class="view-list"><a class="list-link" href="/trucks">View Trucks List</a></div>
       <!--dashboard area-->
       <div class="m-2 bg-white shadow rounded" style="height: 92vh">
         <!-- add order form  -->
@@ -93,7 +93,7 @@
 <script>
 import sideBar from "../components/sideBar.vue";
 export default {
-  name: "addEmpployee",
+  name: "addTruck",
   components: { sideBar },
 };
 </script>
