@@ -24,7 +24,7 @@
             >ADD ORDER +<i class="fa fa-phone"></i
           ></router-link>
           <!-- add employee  -->
-          <router-link class="btn btn-secondary ml-3" to="/humanResource"
+          <router-link class="btn btn-secondary ml-3" to="/addEmployee"
             >ADD EMPLOYEE +<i class="fa fa-users"></i
           ></router-link>
           <!-- make payment  -->
