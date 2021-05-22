@@ -15,7 +15,7 @@
       >
         Add Employee
       </div>
-      <div class="view-list"><a href="/humanResource">View Employees List</a></div>
+      <div class="view-list"><a class="view-link" href="/humanResource">View Employees List</a></div>
       <!--dashboard area-->
       <div class="m-2 bg-white shadow rounded" style="height: 92vh">
         <!-- add order form  -->
@@ -93,7 +93,7 @@
 <script>
 import sideBar from "../components/sideBar.vue";
 export default {
-  name: "addEmployee",
+  name: "addFinance",
   components: { sideBar },
 };
 </script>
@@ -105,10 +105,10 @@ export default {
     float: right;
     margin-right: 50px;
 }
-a{
+.view-link{
     color: #fff;
 }
-a:hover{
+.view-link:hover{
     color: #fff;
 }
 </style>
