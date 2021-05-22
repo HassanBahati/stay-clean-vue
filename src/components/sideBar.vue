@@ -4,7 +4,7 @@
           <h4 class="text-center pt-2">Stay Clean Initiative</h4>
           <h6 class="text-center">"Contact Us today, We manage your wastes with love"</h6>
           <!--logged in user-->
-          <div class="shadow-sm p-2 m-4 bg-light rounded">Bahati here 👋</div>
+          <div class="shadow-sm p-2 m-4 bg-light rounded">Hassan Bahati here 👋</div>
           <!--side bar navigations-->
           <ul>
             <li>

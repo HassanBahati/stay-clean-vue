@@ -13,7 +13,7 @@
         class="shadow-none mx-4 p-2 bg-success rounded text-white"
         style="margin: 10px 1px -30px 1px; position: relative"
       >
-        good morning, Bahati 👋
+        good morning, Hassan 👋
       </div>
       <!--dashboard area-->
       <div class="m-2 bg-white shadow rounded" style="height: 92vh">
@@ -42,31 +42,31 @@
           <!--Grid column with card 1-->
           <div class="col">
             <div class="card-body shadow rounded">
-              <h5 class="card-title">Section 1</h5>
-              <h6 class="card-subtitle mb-2 text-muted">Subtitle</h6>
-
-              <a href="#" class="card-link">link</a>
-              <a href="#" class="card-link">Another link</a>
+              <h2 class="card-title">00</h2>
+              <h5 class="card-subtitle m-2 text-right text-muted">
+                Total Orders <i class="fa fa-phone"></i>
+              </h5>
+             
             </div>
           </div>
           <!--Grid column with card 2-->
           <div class="col">
             <div class="card-body shadow rounded">
-              <h5 class="card-title">Section 2</h5>
-              <h6 class="card-subtitle mb-2 text-muted">Subtitle</h6>
-
-              <a href="#" class="card-link">link</a>
-              <a href="#" class="card-link">Another link</a>
+              <h2 class="card-title">00</h2>
+              <h5 class="card-subtitle m-2 text-right text-muted">
+                Garbage Orders <i class="fa fa-phone"></i>
+              </h5>
+              
             </div>
           </div>
           <!--Grid column with card 3-->
           <div class="col">
             <div class="card-body shadow rounded">
-              <h5 class="card-title">Section 3</h5>
-              <h6 class="card-subtitle mb-2 text-muted">Subtitle</h6>
-
-              <a href="#" class="card-link">link</a>
-              <a href="#" class="card-link">Another link</a>
+              <h2 class="card-title">00</h2>
+              <h5 class="card-subtitle m-2 text-right text-muted">
+                Sewage Orders <i class="fa fa-phone"></i>
+              </h5>
+              
             </div>
           </div>
         </div>
@@ -76,31 +76,33 @@
           <!--Grid column with card 1-->
           <div class="col">
             <div class="card-body shadow rounded">
-              <h5 class="card-title">Section 1</h5>
-              <h6 class="card-subtitle mb-2 text-muted">Subtitle</h6>
-
-              <a href="#" class="card-link">link</a>
-              <a href="#" class="card-link">Another link</a>
+              <h2 class="card-title">00</h2>
+              <h5 class="card-subtitle m-2 text-right text-muted">
+                Total Employees <i class="fa fa-users"></i>
+              </h5>
+              
             </div>
           </div>
           <!--Grid column with card 2-->
           <div class="col">
             <div class="card-body shadow rounded">
-              <h5 class="card-title">Section 2</h5>
-              <h6 class="card-subtitle mb-2 text-muted">Subtitle</h6>
-
-              <a href="#" class="card-link">link</a>
-              <a href="#" class="card-link">Another link</a>
+              <h2 class="card-title">00</h2>
+              <h5 class="card-subtitle m-2 text-right text-muted">
+                  
+                Current Employees <i class="fa fa-users"></i>
+              </h5>
+            
             </div>
           </div>
           <!--Grid column with card 3-->
           <div class="col">
             <div class="card-body shadow rounded">
-              <h5 class="card-title">Section 3</h5>
-              <h6 class="card-subtitle mb-2 text-muted">Subtitle</h6>
+              <h2 class="card-title">00</h2>
+              <h5 class="card-subtitle m-2 text-right text-muted">
+                Employees on Leave <i class="fa fa-users"></i>
+              </h5>
+            
 
-              <a href="#" class="card-link">link</a>
-              <a href="#" class="card-link">Another link</a>
             </div>
           </div>
         </div>
@@ -110,30 +112,29 @@
           <!--Grid column with card 1-->
           <div class="col">
             <div class="card-body shadow rounded">
-              <h5 class="card-title">Section 100</h5>
-              <h6 class="card-subtitle mb-2 text-muted">Subtitle</h6>
-              <a href="#" class="card-link">link</a>
-              <a href="#" class="card-link">Another link</a>
+               <h2 class="card-title">50</h2>
+              <h5 class="card-subtitle m-2 text-right text-muted">
+                Total Finances <i class="fa fa-money"></i>
+              </h5>
+             
             </div>
           </div>
           <!--Grid column with card 2-->
           <div class="col">
             <div class="card-body shadow rounded">
-              <h5 class="card-title">Section 2</h5>
-              <h6 class="card-subtitle mb-2 text-muted">Subtitle</h6>
+               <h2 class="card-title">00</h2>
+              <h5 class="card-subtitle m-2 text-right text-muted">Sales <i class="fa fa-money"></i></h5>
+      
 
-              <a href="#" class="card-link">link</a>
-              <a href="#" class="card-link">Another link</a>
             </div>
           </div>
           <!--Grid column with card 3-->
           <div class="col">
             <div class="card-body shadow rounded">
-              <h5 class="card-title">Section 3</h5>
-              <h6 class="card-subtitle mb-2 text-muted">Subtitle</h6>
-
-              <a href="#" class="card-link">link</a>
-              <a href="#" class="card-link">Another link</a>
+              <h2 class="card-title">00</h2>
+              <h5 class="card-subtitle m-2 text-right text-muted">
+                Expenditures <i class="fa fa-money"></i>
+              </h5>
             </div>
           </div>
         </div>
