@@ -13,16 +13,16 @@
         class="shadow-none mx-4 p-2 bg-success rounded text-white"
         style="margin: 10px 1px -30px 1px; position: relative"
       >
-        Add Order
+        Add Employee
       </div>
-      <div class="view-list"><a href="/orders">View Orders List</a></div>
+      <div class="view-list"><a href="/orders">View Employees List</a></div>
       <!--dashboard area-->
       <div class="m-2 bg-white shadow rounded" style="height: 92vh">
         <!--ADD employee-->
         <div class="p-5">
           <!--MAKE PAYMENT btn-->
           <a class="btn btn-secondary" href=""
-            >ADD ORDER +<i class="fa fa-phone"></i
+            >ADD EMPLOYEE +<i class="fa fa-users"></i
           ></a>
           <!--search bar-->
           <!-- <form class="search" action="">
@@ -114,7 +114,7 @@
 <script>
 import sideBar from "../components/sideBar.vue";
 export default {
-  name: "addOrder",
+  name: "addEmpployee",
   components: { sideBar },
 };
 </script>
