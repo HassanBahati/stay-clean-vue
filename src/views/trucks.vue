@@ -15,6 +15,7 @@
       >
         Trucks list 
       </div>
+      <div class="view-list"><a class="list-link" href="/addTruck">Add Truck</a></div>
       <!--dashboard area-->
       <div class="m-2 bg-white shadow rounded" style="height: 92vh">
         <!--ADD employee-->
@@ -74,4 +75,16 @@ export default {
 </script>
 
 <style scoped>
+.view-list{
+    position: relative;
+    display: flex;
+    float: right;
+    margin-right: 50px;
+}
+.list-link{
+    color: #fff;
+}
+.list-link:hover{
+    color: #fff;
+}
 </style>

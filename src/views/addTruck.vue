@@ -13,7 +13,7 @@
         class="shadow-none mx-4 p-2 bg-success rounded text-white"
         style="margin: 10px 1px -30px 1px; position: relative"
       >
-        Add Employee
+        Add Truck
       </div>
       <div class="view-list"><a class="list-link" href="/trucks">View Trucks List</a></div>
       <!--dashboard area-->

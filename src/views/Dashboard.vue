@@ -32,7 +32,7 @@
             >ADD PAYMENT +<i class="fa fa-money"></i
           ></router-link>
           <!-- add truck  -->
-          <router-link class="btn btn-secondary ml-3" to="/trucks"
+          <router-link class="btn btn-secondary ml-3" to="/addTruck"
             >ADD TRUCK +<i class="fa fa-truck"></i
           ></router-link>
         </div>
