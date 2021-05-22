@@ -20,7 +20,7 @@
         <!-- add ons  -->
         <div class="p-5">
           <!-- add order  -->
-          <router-link class="btn btn-secondary" to="/orders"
+          <router-link class="btn btn-secondary" to="/addOrder"
             >ADD ORDER +<i class="fa fa-phone"></i
           ></router-link>
           <!-- add employee  -->
