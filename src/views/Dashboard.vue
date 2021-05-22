@@ -28,7 +28,7 @@
             >ADD EMPLOYEE +<i class="fa fa-users"></i
           ></router-link>
           <!-- make payment  -->
-          <router-link class="btn btn-secondary ml-3" to="/finance"
+          <router-link class="btn btn-secondary ml-3" to="/addFinance"
             >ADD PAYMENT +<i class="fa fa-money"></i
           ></router-link>
           <!-- add truck  -->

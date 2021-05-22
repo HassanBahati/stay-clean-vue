@@ -15,6 +15,7 @@
       >
         Finances Summary
       </div>
+       <div class="view-list"><a class="view-link" href="/addEmployee">Add Payment</a></div>
       <!--dashboard area-->
       <div class="m-2 bg-white shadow rounded" style="height: 92vh">
         <!--ADD employee-->
@@ -74,4 +75,16 @@ export default {
 </script>
 
 <style scoped>
+.view-list{
+    position: relative;
+    display: flex;
+    float: right;
+    margin-right: 50px;
+}
+.view-link{
+    color: #fff;
+}
+.view-link:hover{
+    color: #fff;
+}
 </style>

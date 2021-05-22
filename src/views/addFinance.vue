@@ -13,9 +13,9 @@
         class="shadow-none mx-4 p-2 bg-success rounded text-white"
         style="margin: 10px 1px -30px 1px; position: relative"
       >
-        Add Employee
+        Add Payment
       </div>
-      <div class="view-list"><a class="view-link" href="/humanResource">View Employees List</a></div>
+      <div class="view-list"><a class="view-link" href="/finance">View Finances Summary</a></div>
       <!--dashboard area-->
       <div class="m-2 bg-white shadow rounded" style="height: 92vh">
         <!-- add order form  -->

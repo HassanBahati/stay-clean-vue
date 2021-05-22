@@ -9,6 +9,7 @@ import Order from "../views/order.vue";
 import addOrder from '../views/addOrder.vue'
 import addEmployee from '../views/addEmployee.vue'
 import addTruck from '../views/addTruck.vue'
+import addFinance from '../views/addFinance.vue'
 
 const routes = [
   {
@@ -60,6 +61,11 @@ const routes = [
     path: '/addTruck',
     name: 'addTruck',
     component: addTruck,
+  },
+  {
+    path: '/addFinance',
+    name: 'addFinance',
+    component: addFinance
   },
   {
     path: "/about",
